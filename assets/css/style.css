@@ -1,0 +1,59 @@
+body {
+    margin: 10px;
+    background-color:lightcyan;
+}
+
+h1 {
+   background: orange;
+   font-size: 40px;
+   color: white;
+   padding: 20px;
+   width: 320px;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+
+#instructions {
+    background: peachpuff;
+    color: green;
+    width: 500px;
+    font-weight: bold;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+#numberbox {
+    float: left;
+    width: 250px;
+    height: 75px; 
+    background-color: green;
+    margin: 0 10px 10px 0;
+}
+#wins-losses {
+    float: left;
+    width: 50px;
+    background-color:lightskyblue;
+    height: 75px;
+    margin-bottom: 10px;
+}
+#crystal-box {
+    clear: both;
+    margin-bottom: 10px;
+}
+#score-header {
+    width: 250px;
+    background-color: teal;
+    margin-bottom: 10px;
+}
+#scorebox {
+    height: 75px;
+    background-color: teal;
+    width: 250px;
+}
+.crystals {
+    height: 150px;
+    width: 150px;
+}
+
+
+
